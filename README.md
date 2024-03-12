@@ -5,6 +5,7 @@ If you are a developer, dont look into the code, unspeakable horrors wait inside
 This whole project is a huge antipattern, dont look it with any other feeling than disgust
 </details>
 
+___
 
 Right now there are two distinct versions of this software, one focused on hitboxes/switch based sticks and two axis sticks and one focused on single axis fight sticks like the razor panthera and the victrix
 
