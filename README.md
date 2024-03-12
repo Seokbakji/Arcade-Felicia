@@ -1,3 +1,11 @@
+<details>
+<summary>Are you a developer and going to look into the code? read me first`</summary>
+
+If you are a developer, dont look into the code, unspeakable horrors wait inside this was made ina atime when I was not into architecture or good practices (and it shows)
+This whole project is a huge antipattern, dont look it with any other feeling than disgust
+</details>
+
+
 Right now there are two distinct versions of this software, one focused on hitboxes/switch based sticks and two axis sticks and one focused on single axis fight sticks like the razor panthera and the victrix
 
 To download each one you must seek them in the [releases page](https://github.com/ROMthesheep/Arcade-Bongo-Cat/releases)
