@@ -1,7 +1,10 @@
 <details>
 <summary>Are you a developer and going to look into the code? read me first</summary>
+ 
 
-If you are a developer, dont look into the code, unspeakable horrors wait inside this was made ina atime when I was not into architecture or good practices (and it shows)
+If you are a developer, dont look into the code searching for references, unspeakable horrors wait inside 
+
+This was made in a time when I was not into architecture or good practices (and it shows)
 This whole project is a huge antipattern, dont look it with any other feeling than disgust
 </details>
 
